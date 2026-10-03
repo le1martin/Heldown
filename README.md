@@ -20,6 +20,10 @@ Reach out to martinle348@gmail.com if you have any questions!
 
 ![game](screenshots/gameplay_screenshot.png)
 
+![jumping](screenshots/gameplayjumping_screenshot.png)
+
+![zombiedeath](screenshots/zombiedeath_screenshot.png)
+
 ![trapdeath](screenshots/trapdeath_screenshot.png)
 
 ![nukedeath](screenshots/nukedeath_screenshot.png)
